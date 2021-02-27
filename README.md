@@ -1,2 +1,2 @@
 # ai-tictactoe
-Tic-tac-toe program that always plays the optimal move, using the minimax algorithm with alpha-beta pruning.
+Object-oriented console-based tic-tac-toe game that always plays the optimal move. To find the optimal move, it uses the [minimax algorithm](https://en.wikipedia.org/wiki/Minimax) with [alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning). There is also a move recommendation feature for those players who are new to tic-tac-toe. The setup of the program is flexible and can easily be extended to other connecting games like Gomuku and Connect Four.
